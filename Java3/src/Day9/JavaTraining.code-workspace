@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"name": "app",
+			"path": "..\\app"
+		},
+		{
+			"name": "Day2",
+			"path": "..\\Day2"
+		},
+		{
+			"name": "Day3",
+			"path": "..\\Day3"
+		},
+		{
+			"name": "Day4",
+			"path": "..\\Day4"
+		},
+		{
+			"name": "Day5",
+			"path": "..\\Day5"
+		},
+		{
+			"name": "Day6",
+			"path": "..\\Day6"
+		},
+		{
+			"name": "Day7",
+			"path": "..\\Day7"
+		},
+		{
+			"name": "Day8",
+			"path": "..\\Day8"
+		},
+		{
+			"name": "Day9",
+			"path": "."
+		},
+		{
+			"name": "Day10",
+			"path": "..\\Day10"
+		},
+		{
+			"name": "Algorithms",
+			"path": "..\\..\\..\\Algorithms"
+		}
+	],
+	"settings": {}
+}
